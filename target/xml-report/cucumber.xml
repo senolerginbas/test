@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="65.841">
+    <testcase classname="grid_feature" name="TC_01_Testing_On_Chrome" time="31.095">
+        <system-out><![CDATA[Given user is on the application_url with chrome............................passed
+Then verify the title of the page is GMIBANK................................passed
+Then close the remote driver................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="grid_feature" name="TC_02_Testing_On_Firefox" time="33.909">
+        <system-out><![CDATA[Given user is on the application_url with firefox...........................passed
+Then verify the title of the page is GMIBANK................................passed
+Then close the remote driver................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
